@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-    name: 'DashModuleUItest',
+    name: 'dashmoduleuitest',
     type: 'static',
     dashUI: true,
     prerequisites: {
